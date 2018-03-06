@@ -14,7 +14,7 @@ PC端:
 
 ## 技术框架
 
-该应用是基于 React + Redux 实现的，页面的UI则是使用了 Semantic-UI-React 库来完成的。
+该应用是基于 React + Redux 实现的，页面的 UI 则是使用了 Semantic-UI-React 库来完成的。
 
 ## 特点
 
