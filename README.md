@@ -10,7 +10,7 @@ PC端:
 
 移动设备端:
 
-![simple_weather_mobile_devices](http://p3ek8rd7p.bkt.clouddn.com/simple_weather_mobile_devices.gif)
+![simple_weather_mobile_devices](http://p3ek8rd7p.bkt.clouddn.com/simple_weather_mobile.jpg)
 
 ## 技术框架
 
