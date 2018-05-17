@@ -1,6 +1,6 @@
 # simple-weather
 
-[simple-weather](http://guozeling.cn/simple_weather), 正如它的名字一样， 提供了非常简洁的界面和基本的实时天气信息，并且带有IP定位功能。
+正如它的名字一样， 提供了非常简洁的界面和基本的实时天气信息，并且带有IP定位功能。
 
 ## 效果图
 
